@@ -7,6 +7,12 @@ margin: 0;
 padding: 0;
 }
 
+body{
+  background-image; url(../img/good.png), url(../img/bg.jpg);
+  background-repeat: no-repeat, no-repeat;
+background-color: lightgrey;
+margin: 5px;
+}
 text-shadow{
 padding: 0 40px;
 font-size: 30px;
