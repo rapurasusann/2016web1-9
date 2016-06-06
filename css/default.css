@@ -66,7 +66,7 @@ text-shadow: 0px 0px 5px white,
 #box-shadow{
   font-size: 30px;
 }
-.box-drop_shadow{box-shadow:2px 2px 5px gray; padding: 5px; margin:20px;}
+.box-drop_shadow {box-shadow: 2px 2px 5px gray; padding: 5px; margin:20px;}
 .box-grow {color:white;
 box-shadow:0px 0px 10px gray; padding: 5px; margin:20px;}
 .box-inset_drop_shadow{box-shadow:2px 2px 5px gray inset; padding: 5px; margin:20px;}
