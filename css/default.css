@@ -8,7 +8,7 @@ padding: 0;
 }
 
 body{
-  background-image; url(../img/good.png), url(../img/bg.jpg);
+  background-image: url(../img/good.png), url(../img/bg.jpg);
   background-repeat: no-repeat, no-repeat;
 background-color: lightgrey;
 margin: 5px;
